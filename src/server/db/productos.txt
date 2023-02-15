@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Galletas",
+    "descripcion": "Galletas de chocolate",
+    "codigo": 12345,
+    "precio": 12990,
+    "foto": "https://s1.eestatic.com/2020/04/16/cocinillas/recetas/postres/reposteria-galletas-postres_482962222_150389308_1706x960.jpg",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "Papitas Fritas",
+    "descripcion": "Papas fritas con mucha sal y sodio",
+    "codigo": 12345,
+    "precio": 11990,
+    "foto": "https://comidaschilenas.com/wp-content/uploads/2020/01/Receta-de-papas-fritas-perfectas.jpg",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "nombre": "Collacs",
+    "descripcion": "Collacs de frutas",
+    "codigo": 12345,
+    "precio": "1990",
+    "foto": "https://static8.depositphotos.com/1000855/895/i/950/depositphotos_8950003-stock-photo-lollipop.jpg",
+    "stock": 10
+  }
+]
