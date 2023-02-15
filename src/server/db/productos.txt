@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "timestamp": 1668647566189,
     "nombre": "Galletas",
     "descripcion": "Galletas de chocolate",
     "codigo": 12345,
@@ -10,6 +11,7 @@
   },
   {
     "id": 2,
+    "timestamp": 1668647566189,
     "nombre": "Papitas Fritas",
     "descripcion": "Papas fritas con mucha sal y sodio",
     "codigo": 12345,
@@ -18,7 +20,18 @@
     "stock": 10
   },
   {
+    "id": 3,
+    "timestamp": 1668647566189,
+    "nombre": "Chocolate",
+    "descripcion": "Chocolate de leche rico",
+    "codigo": 12345,
+    "precio": 15990,
+    "foto": "https://www.morningstar.co.uk/static/UploadManager/Assets/Chocolate.jpg",
+    "stock": 10
+  },
+  {
     "id": 4,
+    "timestamp": 1668647566189,
     "nombre": "Collacs",
     "descripcion": "Collacs de frutas",
     "codigo": 12345,
